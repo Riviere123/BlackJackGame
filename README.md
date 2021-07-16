@@ -1,4 +1,4 @@
 # BlackJackGame
 
-A simple blackjack game made in python and run on cmd line.
+A game of blackjack made in python and played on cmd line.
 To play: run BlackJack.py
